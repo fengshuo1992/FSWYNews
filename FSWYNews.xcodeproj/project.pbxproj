@@ -185,7 +185,6 @@
 				145F8FACF3520A4EACE2DAC9 /* Pods-FSWYNews.debug.xcconfig */,
 				AFE6E0280296F46200D15919 /* Pods-FSWYNews.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -551,6 +550,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S96K5NZ7N7;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = FSWYNews/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Guide.FSWYNews;
@@ -566,6 +566,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S96K5NZ7N7;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = FSWYNews/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Guide.FSWYNews;
