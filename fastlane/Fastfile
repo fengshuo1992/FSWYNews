@@ -25,8 +25,7 @@ platform :ios do
     export_method:"ad-hoc",
     export_xcargs: "-allowProvisioningUpdates",
     output_directory:"./build",
-
-    )
+ )
      pgyer(api_key: "d1b2989cde5da7909baa2e7677104a48", user_key: "fe25d4bc286baf919209843d9cb45da0", update_description: "fix something")
   end
 end
