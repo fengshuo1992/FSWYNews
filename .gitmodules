@@ -1,0 +1,3 @@
+[submodule "firstapp"]
+	path = firstapp
+	url = https://github.com/fengshuo1992/firstapp.git
